@@ -1,5 +1,6 @@
 - 👋 Olá, meu nome é João Vítor
--  Tenho vontade de me desvolver cada vez mais na carreira de Dados.
+-  Trabalho com desenvolvimento de automação de processos em python
+-  Tenho interesse de me desenvolver como dev em JAVA para back-end 
 
 
 
